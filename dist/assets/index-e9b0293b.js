@@ -33,7 +33,7 @@
 <div class="fixed top-0 w-full border-b border-gray-200 bg-white/50 backdrop-blur-xl z-30 transition-all">
   <div class="mx-5 flex h-16 max-w-screen-xl items-center justify-between xl:mx-auto">
     <a class="flex items-center font-display text-2xl" href="/">
-      <img src="/icon1.png"/>
+      <img src="./icon1.png"/>
       <p class="text-icon-100 font-medium">website.</p>
     </a>
     <div>
@@ -52,35 +52,35 @@
     <div class="mt-16 grid w-full max-w-screen-xl animate-fade-up grid-cols-1 gap-5 md:grid-cols-3 xl:px-0">
       <div class="relative col-span-1 h-80 overflow-hidden rounded-xl border border-gray-200 bg-white shadow-md md:col-span-2">
       <div class="w-full p-4">
-        <img class="mb-2"src="/icon7.png"/>
+        <img class="mb-2"src="./icon7.png"/>
         <h2 class="text-icon-100 text-2xl font-medium	mb-2">Set a goal</h2>
         <p class="text-gary-100 text-lg">  Creating a goal whether that be a small project or a massive enterprise is the first step.</p>
       </div>
       </div>
       <div class="relative col-span-1 h-80 overflow-hidden rounded-xl border border-gray-200 bg-white shadow-md md:col-span-1">
         <div class="w-full p-4">
-          <img class="mb-2"src="/icon2.png"/>
+          <img class="mb-2"src="./icon2.png"/>
           <h2 class="text-icon-100 text-2xl font-medium	mb-2">Converse</h2>
           <p class="text-gary-100 text-lg"> Start a dialogue with other students.</p>
         </div>
       </div>
       <div class="relative col-span-1 h-80 overflow-hidden rounded-xl border border-gray-200 bg-white shadow-md md:col-span-1">
         <div class="w-full p-4">
-          <img class="mb-2"src="/icon4.png"/>
+          <img class="mb-2"src="./icon4.png"/>
           <h2 class="text-icon-100 text-2xl font-medium	mb-2">Common Ground</h2>
           <p class="text-gary-100 text-lg"> Find some common ground between a set of ideas.</p>
         </div>
       </div>
       <div class="relative col-span-1 h-80 overflow-hidden rounded-xl border border-gray-200 bg-white shadow-md md:col-span-1">
         <div class="w-full p-4">
-          <img class="mb-2"src="/icon8.png"/>
+          <img class="mb-2"src="./icon8.png"/>
           <h2 class="text-icon-100 text-2xl font-medium	mb-2">Events</h2>
           <p class="text-gary-100 text-lg">  Plan events that brings the community together.</p>
         </div>
       </div>
       <div class="relative col-span-1 h-80 overflow-hidden rounded-xl border border-gray-200 bg-white shadow-md md:col-span-1">
         <div class="w-full p-4">
-          <img class="w-12 h-12 mb-2" src="/icon5.png"/>
+          <img class="w-12 h-12 mb-2" src="./icon5.png"/>
           <h2 class="text-icon-100 text-2xl font-medium	mb-2">Connect</h2>
           <p class="text-gary-100 text-lg"> Form a community with students across the world.</p>
         </div>

@@ -2,7 +2,7 @@
   {
     "name": "Artboard",
     "blob": "Instantly support hundreds of integrations compatible  turn them on with one click.",
-    "src": "/artboard1.png",
+    "src": "./artboard1.png",
     "list":[
       "Easy, intuitive prototyping",
       "Shared Libraries, styles and components",
@@ -12,7 +12,7 @@
   {
     "name": "Artboard",
     "blob": "Design and develop with other creative students",
-    "src": "/artboard2.png",
+    "src": "./artboard2.png",
     "list":[
       "Solo design or real-time collaboration",
       "Offline and local file support",
@@ -24,7 +24,7 @@
   {
     "name": "Artboard",
     "blob": "Instantly support hundreds of integrations compatible  turn them on with one click.",
-    "src": "/artboard3.png",
+    "src": "./artboard3.png",
     "list":[
       "Super-fast performance",
       "Optimized for Apple Silicon",
