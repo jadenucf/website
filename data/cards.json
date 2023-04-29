@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Artboard",
+    "blob": "Instantly support hundreds of integrations compatible  turn them on with one click.",
+    "src": "/artboard1.png",
+    "list":[
+      "Easy, intuitive prototyping",
+      "Shared Libraries, styles and components",
+      "Control over color profiles"
+    ]
+  },
+  {
+    "name": "Artboard",
+    "blob": "Instantly support hundreds of integrations compatible  turn them on with one click.",
+    "src": "/artboard2.png",
+    "list":[
+      "Solo design or real-time collaboration",
+      "Offline and local file support",
+      "Store and sync your work",
+      "Share feedback in the app",
+      "Distribute Design Systems"
+    ]
+  },
+  {
+    "name": "Artboard",
+    "blob": "Instantly support hundreds of integrations compatible  turn them on with one click.",
+    "src": "/artboard3.png",
+    "list":[
+      "Super-fast performance",
+      "Optimized for Apple Silicon",
+      "Drag and drop between apps"
+    ]
+  }
+]
