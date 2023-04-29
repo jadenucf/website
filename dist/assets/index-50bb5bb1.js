@@ -21,7 +21,7 @@
         </div>
       </div>
       <div>
-        <img class="rounded" src='./artboard1.png'/> 
+        <img class="rounded" src="./artboard1.png"/> 
       </div>
     </div>
 
